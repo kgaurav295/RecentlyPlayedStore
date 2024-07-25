@@ -13,5 +13,5 @@ This project implements an in-memory store for recently played songs that can ac
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/<your-username>/RecentlyPlayedStore.git
+   git clone https://github.com/kgaurav295/RecentlyPlayedStore.git
    cd RecentlyPlayedStore
