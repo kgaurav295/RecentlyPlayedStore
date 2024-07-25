@@ -7,7 +7,7 @@ This project implements an in-memory store for recently played songs that can ac
 ## Prerequisites
 
 - Java 8 or higher
-- Maven or Gradle
+- Maven
 
 ## Setup
 
